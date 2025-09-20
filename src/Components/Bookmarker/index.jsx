@@ -5,7 +5,7 @@ const Bookmarker = ()=>{
         <div className="relative">
             <section id="bookmaker" className="py-16  bg-gray-100  relative z-10 -mt-14 rounded-r-[4rem] rounded-bl-[4rem] "> 
 
-                <svg width="872" height="79" viewBox="0 0 872 79" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" className=" absolute -top-14" data-v-447ecaba="">
+                <svg width="872" height="79"  viewBox="0 0 872 79" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" className="absolute max-sm:-top-8  -top-12 max-md:w-[80%] " data-v-447ecaba="">
                     <path fill-rule="evenodd" clip-rule="evenodd" d="M766.599 22.6659C748.721 8.00954 726.317 0 703.2 0H32C14.3269 0 0 18.4938 0 41.3071V2028.69C0 2051.51 14.3269 2070 32 2070H1408C1425.67 2070 1440 2051.51 1440 2028.69V110.742C1440 93.0686 1425.67 78.7417 1408 78.7417H870.751C847.634 78.7417 825.23 70.7321 807.352 56.0758L766.599 22.6659Z" fill="url(#paint0_linear_2823_58010)"></path>
                     <defs>
                         <linearGradient id="paint0_linear_2823_58010" x1="1278" y1="223.63" x2="709.723" y2="1762.74" gradientUnits="userSpaceOnUse">

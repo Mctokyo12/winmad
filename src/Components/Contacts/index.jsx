@@ -20,7 +20,7 @@ const Contacts = ()=>{
                         <p className="text-2xl my-4 ">
                            بالإضافة إلى طرق التواصل الأساسية، يمكنك أيضًا ترك رسالة باستخدام نموذج الملاحظات أدناه.
                         </p>
-                        <div className="flex items-center gap-2">
+                        <div className="flex  flex-col md:flex-row md:items-center max-sm:w-[70%]  max-sm:gap-4  gap-2">
                             <a href="https://t.me/gooobet_cashmax" rel="noopener noreferrer nofollow" target="_blank" className=" flex items-center gap-4 rounded-lg bg-white shadow py-2 px-4">
                                 <span className="bg-blue p-3 rounded-xl">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" className="text-white">

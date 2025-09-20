@@ -38,7 +38,7 @@ const NavBar = ()=>{
                 WINMAD BET
             </h2>
 
-            <ul className={` flex flex-col    ${isMenu ? "flex" :"lg:flex hidden"} max-lg:absolute    lg:flex-row  max-lg:top-1/2 max-lg:left-1/2 max-lg:-translate-x-1/2  max-lg:-translate-y-1/2  items-center  justify-between gap-8 lg:4rem `}>
+            <ul className={` flex flex-col    ${isMenu ? "flex" :"lg:flex hidden"} max-lg:absolute   lg:flex-row  max-lg:top-1/6  max-lg:left-1/2 max-lg:-translate-x-1/2  max-lg:-translate-y-1/6  items-center  justify-between gap-8 lg:4rem `}>
                 {MenuItem.map(({menu , link} , index)=>(
                     <li className="text-white text-lg hover:text-blue transition-all duration-500" key={index} onClick={()=>setIsMenu(false)}>
                         <a href={`#${link}`}>{menu}</a>
