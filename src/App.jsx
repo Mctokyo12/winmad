@@ -8,6 +8,7 @@ import Bookmarker from './Components/Bookmarker'
 import FaQ from './Components/FaQ'
 import Contacts from './Components/Contacts'
 import Footer from './Components/Footer'
+import { Analytics } from '@vercel/analytics/react';
 // Footer
 
 
@@ -24,6 +25,7 @@ function App() {
       <FaQ/>
       <Contacts/>
       <Footer/>
+      <Analytics/>
     </>
   )
 }
