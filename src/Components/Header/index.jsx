@@ -16,7 +16,7 @@ const Header  = ()=>{
                         <div className=" p-4 border-4 mt-4 text-4xl border-dashed border-blue flex items-center justify-center text-white cursor-pointer  w-64">
                             WINMAD
                         </div>
-                        <a href="https://lb-aff.com/L" class="inline-block px-2 py-5 bg-blue-600 hover:bg-blue-500 text-center text-white w-[60%] font-bold text-xl rounded-xl shadow-lg mt-8 transition cursor-pointer" >سجل في 1xbet</a>
+                        <a href="https://refpa58144.com/L?tag=d_4549390m_1573c_&site=4549390&ad=1573" class="inline-block px-2 py-5 bg-blue-600 hover:bg-blue-500 text-center text-white w-[60%] font-bold text-xl rounded-xl shadow-lg mt-8 transition cursor-pointer" >سجل في 1xbet</a>
                     </div>
                     <div className="">
                         <div className="">

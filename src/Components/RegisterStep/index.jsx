@@ -17,7 +17,7 @@ const RegisterStep = ()=>{
                             <div class="text-indigo-600 text-5xl mb-4">🌐</div>
                             <h2 class="text-2xl font-bold mb-2">انتقل إلى الموقع الرسمي</h2>
                             <p class="text-gray-600 text-lg">
-                               انقر فوق "تسجيل" أو انتقل إلى <a href="https://refpa483247.pro/L" class="text-indigo-600 font-semibold ">1xBet</a>.
+                               انقر فوق "تسجيل" أو انتقل إلى <a href="https://refpa58144.com/L?tag=d_4549390m_1573c_&site=4549390&ad=1573" class="text-indigo-600 font-semibold ">1xBet</a>.
                             </p>
                         </div>
 
@@ -77,7 +77,7 @@ const RegisterStep = ()=>{
                     </div>
 
                     <div class="text-center mt-12">
-                    <a href="https://refpa483247.pro/L" class="inline-block px-8 py-4 bg-blue-500 hover:bg-blue-600  text-white font-bold text-xl rounded-xl shadow-lg transition">
+                    <a href="https://refpa58144.com/L?tag=d_4549390m_1573c_&site=4549390&ad=1573" class="inline-block px-8 py-4 bg-blue-500 hover:bg-blue-600  text-white font-bold text-xl rounded-xl shadow-lg transition">
                         🎯 قمت بالتسجيل في WINMAD
                     </a>
                     </div>
